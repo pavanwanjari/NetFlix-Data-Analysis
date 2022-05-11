@@ -1,6 +1,10 @@
 # NetFlix-Data-Analysis
 Exploratory Data Analysis on Netflix Movies and TV shows.
-<img src="netflix-logo.gif" style = "width:400px;height:200px"/>
+
+
+<img src="netflix-logo.gif" style = "width:500px;height:250px"/>
+
+
 ### Introduction
 - Netflix, Inc. is an American subscription streaming service and production company. Launched on August 29, 1997, it offers a film and television series library through distribution deals as well as its own productions, known as Netflix Originals.
 
