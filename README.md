@@ -40,3 +40,28 @@ Exploratory Data Analysis or EDA is used to take insights from the data. Data Sc
 * listed_in -Genere
 
 * description -The summary description
+
+### Summary 
+We had performed lots of operations over the dataset to find out some very useful information from it. We have to conclude dataset in few lines, then we can say that.
+- Netflix has more Movies than TV shows.
+- Most of the number of Movies and TV shows produced by United States followed by India. 
+- Most of the Content on Netflix (Movies and TV shows combined) is for mature Audienced.
+- Majority of the movies range in length from 90 to 100 minutes and the majority of TV shows have only one season.
+- 2018 is the year in which Netflix released alot more Content as compared to other years.
+- Dramas, International movies are the most popular Genres on Netflix.
+- the top 5 directors on this platform are:
+    1. Rajiv Chilaka
+    2. Jan Suter
+    3. Rahul Campos
+    4. Marcus Raboy
+    5. Suhas Kadav
+    
+- The Top 5 actors on this Platform: 
+    1. Anupam Kher
+    2. Rupa Bhimani
+    3. Takahero Sakurai
+    4. Julie Tejwani
+    5. Om Puri
+- By sentimental analysis the overall positive content is always greater than the neutral and negative content combined.
+
+# Thank You!
